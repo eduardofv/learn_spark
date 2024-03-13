@@ -1,3 +1,4 @@
 /work-dir/*
 !/work-dir/*ipynb
+!/work-dir/*py
 borra*
